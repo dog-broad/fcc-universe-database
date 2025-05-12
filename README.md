@@ -19,7 +19,6 @@ psql -U postgres < universe.sql
 
 Ensure you have PostgreSQL installed and are authenticated as a valid user.
 
----
 
 ## 📐 Entity Relationship Diagram (ERD)
 
@@ -71,7 +70,6 @@ erDiagram
     }
 ```
 
----
 
 ## ✅ Project Requirements Covered
 
@@ -88,8 +86,6 @@ erDiagram
   pg_dump -cC --inserts -U freecodecamp universe > universe.sql
   ```
 
----
-
 ## 🛠 Technologies
 
 * PostgreSQL
@@ -97,13 +93,11 @@ erDiagram
 * ER Modeling
 * Relational Design Principles
 
----
 
 ## 👨‍🚀 Author
 
 Built with 💙 for learning and certification by @dog-broad
 
----
 
 ## 🛰 License
 
